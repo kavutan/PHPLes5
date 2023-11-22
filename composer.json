@@ -1,0 +1,6 @@
+{ 
+    "name": "pc/php-lesson5",
+    "require": { 
+        "intervention/image": "^2.7" 
+    } 
+}
